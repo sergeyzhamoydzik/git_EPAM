@@ -1,2 +1,4 @@
 This is test
 This is 2nd row for another test.
+And some more rows for
+GIT GUI
